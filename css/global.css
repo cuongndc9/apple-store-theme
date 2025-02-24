@@ -1,0 +1,106 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 14px;
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	line-height: 1.5;
+	color: #ffffff;
+}
+
+.container {
+	width: 100%;
+	overflow: hidden;
+	margin: auto;
+	background-color: #ffffff;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.banner {
+	margin-bottom: 10px;
+}
+
+.banner:nth-child(5),
+.banner:nth-child(6),
+.banner:nth-child(7) {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.banner-content {
+	padding: 45px;
+}
+
+.img-banner {
+	margin-top: 40px;
+}
+
+.banner-content h3 {
+	font-size: 26px;
+	font-weight: lighter;
+	margin: 8px;
+}
+
+.banner-content h2 {
+	font-size: 40px;
+	font-weight: 600;
+	color: #011;
+}
+
+.banner-content h4 {
+	font-size: 20px;
+	font-weight: lighter;
+	color: #011;
+}
+
+.banner-content p {
+	font-size: 16px;
+	font-weight: lighter;
+}
+
+.links-banner a {
+	font-size: 20px;
+	font-weight: lighter;
+	margin-right: 25px;
+	color: #6bf;
+}
+
+.links-banner a:hover {
+	text-decoration: underline;
+}
+
+.links-banner a i {
+	color: #6bf;
+	margin-left: 5px;
+}
+
+.banner-1 {
+	float: left;
+	width: 50%;
+}
+
+.banner-2 {
+	float: right;
+	width: 50%;
+}
+
+.banner-1 .img-banner img ,
+.banner-2 .img-banner img {
+	width: 100%;
+}
+
+.banner-1 a,
+.banner-2 a {
+	font-size: 17px;
+	font-weight: lighter;
+	margin-right: 25px;
+	color: #6bf;
+}

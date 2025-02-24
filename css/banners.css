@@ -1,0 +1,220 @@
+/* banner iphone xs */
+.banner-iphone-xs .container {
+	background-color: #000000;
+}
+
+.banner-iphone-xs .img-banner {
+	margin-bottom: -10px;
+}
+
+/* end banner iphone xs */
+
+/* banner iphone xr */
+.banner-iphone-xr .container {
+	background-color: #000000;
+}
+
+.banner-iphone-xr .img-banner {
+	margin-bottom: -10px;
+}
+/* end banner iphone xr */
+
+/* banner watch */
+.banner-watch .container {
+	background-color: #fbfbfb;
+}
+
+.banner-watch .banner-content {
+	float: left;
+	width: 50%;
+	text-align: center;
+	padding-top: 200px;
+	height: 540px;
+}
+
+.banner-watch .banner-content h3 {
+	color: #011;
+}
+
+.banner-watch .img-banner {
+	float: right;
+	width: 50%;
+	text-align: center;
+	margin-bottom: -10px;
+	position: relative;
+	height: 540px;
+}
+
+.banner-watch .img-banner img {
+	position: absolute;
+	left: 0;
+	top: -90px;
+}
+
+.banner-watch .links-banner a{
+	color: #0070c9;
+}
+
+.banner-watch .links-banner a i{
+	color: #0070c9;
+}
+
+/* banner music & airpods */
+/* banner music */
+.banner-music {
+	background-image: url("https://www.apple.com/v/home/dx/images/promos/apple-music/apple_music_large.jpg");
+	height: 580px;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+
+.banner-music a,
+.banner-music h4,
+.banner-music a i {
+	color: white;
+}
+
+.banner-music .banner-content img:last-child {
+	position: absolute;
+	bottom: 50px;
+}
+/* end banner music */
+
+/* banner airpod */
+.banner-airpods {
+	background-color: #fbfbfb;
+}
+.banner-airpods .img-banner {
+	height: 335px;
+}
+
+.banner-airpods .img-banner img {
+	width: 60%;
+	margin-top: -50px;
+}
+
+.banner-airpods .links-banner a{
+	color: #0070c9;
+}
+
+.banner-airpods .links-banner a i{
+	color: #0070c9;
+}
+/* end banner airpod */
+/* end banner music & airpods */
+
+/* banner giveback & homepod */
+/* banner-giveback */
+.banner-giveback {
+	background-color: #fbfbfb;
+	position: relative;
+	overflow: hidden;
+}
+
+.banner-giveback .banner-content {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 1;
+}
+
+.banner-giveback .img-banner {
+	height: 535px;
+}
+
+.banner-giveback .img-banner img {
+	width: 200%;
+	position: absolute;
+	left: -50%;
+	top: 0;
+}
+
+.banner-giveback .links-banner a{
+	color: #0070c9;
+}
+
+.banner-giveback .links-banner a i{
+	color: #0070c9;
+}
+/* end banner-giveback */
+
+/* banner-homepod */
+.banner-homepod {
+	background-color: #fbfbfb;
+	position: relative;
+	overflow: hidden;
+}
+
+.banner-homepod .banner-content {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 1;
+}
+
+.banner-homepod .img-banner {
+	height: 535px;
+	text-align: center;
+}
+
+.banner-homepod .img-banner img {
+	width: 60%;
+	position: absolute;
+	top: 34%;
+	left: 20%;
+}
+
+.banner-homepod .links-banner a{
+	color: #0070c9;
+}
+
+.banner-homepod .links-banner a i{
+	color: #0070c9;
+}
+/* end banner-homepod */
+/* end banner giveback & homepod */
+
+/* banner macbookpro & ipad */
+/* banner macbookpro */
+.banner-macbookpro {
+	background-image: url("https://www.apple.com/v/home/dx/images/promos/macbook-pro/macbook_pro_performance_large.jpg");
+	height: 580px;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+
+.banner-macbookpro h2,
+.banner-macbookpro h4 {
+	color: white;
+}
+
+.banner-macbookpro .banner-content img {
+	position: absolute;
+	bottom: 50px;
+}
+/* end banner macbookpro */
+
+/* banner ipad */
+.banner-ipad {
+	background-color: #fbfbfb;
+}
+.banner-ipad .img-banner {
+	height: 335px;
+}
+
+.banner-ipad .img-banner img {
+	width: 80%;
+	margin-top: 0;
+}
+
+.banner-ipad .links-banner a{
+	color: #0070c9;
+}
+
+.banner-ipad .links-banner a i{
+	color: #0070c9;
+}
+/* end banner ipad */
+/* end banner macbookpro & ipad */

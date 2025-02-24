@@ -1,0 +1,103 @@
+/* footer */
+/* directory-with-5-columns */
+footer .container {
+	background-color: #F2F2F2;
+}
+
+.directory-with-5-columns {
+	overflow: hidden;
+	padding: 40px 170px;
+}
+
+.directory-column {
+	float: left;
+	width: 20%;
+	text-align: left;
+}
+
+.directory-column-section .directory-label {
+	color: #333333;
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.directory-column-section-2 .directory-label {
+	margin-top: 20px;
+}
+
+.directory-column-section a{
+	color: #333333;
+	font-size: 12px;
+	font-weight: lighter;
+	margin-bottom: 15px;
+}
+
+.directory-column-section a:hover {
+	text-decoration: underline;
+}
+/* end directory-with-5-columns */
+
+/* copyright */
+.footer-legal {
+	overflow: hidden;
+	padding: 20px 170px;
+}
+
+.footer-legal-left {
+	float: left;
+	width: 30%;
+	text-align: left;
+}
+
+.footer-legal-center {
+	float: left;
+	width: 50%;
+}
+
+.footer-legal-right {
+	float: left;
+	width: 20%;
+}
+
+.footer-legal-left p {
+	color: #333333;
+	font-size: 12px;
+	font-weight: lighter;
+}
+
+.footer-legal-center a {
+	color: #333333;
+	font-size: 12px;
+	font-weight: lighter;
+}
+
+.footer-legal-center li {
+	display: inline;
+	border-right: 1px solid #333333;
+	padding: 0 15px 0 10px;
+}
+
+.footer-legal-center li:last-child {
+	border-right: none;
+}
+
+.footer-legal-right a {
+	color: #333333;
+	font-size: 12px;
+	font-weight: lighter;
+}
+
+.footer-legal-right a:hover,
+.footer-legal-center a:hover {
+	text-decoration: underline;
+}
+
+.footer-legal-right a img {
+	position: relative;
+	top: 4px;
+	left: -4px;
+}
+
+/* end copyright */
+/* end footer */

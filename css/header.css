@@ -1,0 +1,32 @@
+header {
+	position: sticky;
+	z-index: 2;
+	top: 0;
+	width: 100%;
+}
+
+header nav {
+	background-color: #333333;
+	padding: 12px;
+}
+
+header nav > ul > li {
+	display: inline;
+	padding: 37px;
+}
+
+header nav > ul > li > a:hover {
+	color: grey;
+}
+
+header nav i.fa {
+	font-size: 16px;
+}
+
+header nav a i.fa-apple {
+	font-size: 19px;
+}
+
+header nav i.fa:hover {
+	color: grey;
+}
