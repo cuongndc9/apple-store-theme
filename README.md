@@ -16,6 +16,6 @@ For help getting started , view our online [documentation](https://www.w3schools
 MIT
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🐯
+Action beats perfection.
+🐶
 <!-- INSPIRATIONAL_QUOTE_END -->
