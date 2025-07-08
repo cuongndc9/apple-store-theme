@@ -17,5 +17,5 @@ MIT
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only impossible journey is the one you never begin." - Tony Robbins
+> "Innovation distinguishes between a leader and a follower." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
